@@ -1,0 +1,8 @@
+bot/SimpleBot.java
+ bot.SimpleBot
+bot/Main2.java
+ bot.Main2
+bot/Main.java
+ bot.Main
+bot/Main3.java
+ bot.Main3
